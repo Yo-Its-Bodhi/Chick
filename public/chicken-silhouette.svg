@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" fill="black">
+  <!-- Comb -->
+  <ellipse cx="45" cy="8" rx="5" ry="6"/>
+  <ellipse cx="52" cy="5" rx="5" ry="5"/>
+  <ellipse cx="58" cy="9" rx="5" ry="6"/>
+  <!-- Head -->
+  <ellipse cx="50" cy="22" rx="14" ry="14"/>
+  <!-- Beak -->
+  <polygon points="32,20 22,24 34,26"/>
+  <!-- Wattle -->
+  <ellipse cx="37" cy="32" rx="5" ry="7"/>
+  <!-- Neck -->
+  <ellipse cx="52" cy="40" rx="12" ry="12"/>
+  <!-- Body -->
+  <ellipse cx="54" cy="65" rx="24" ry="22"/>
+  <!-- Tail feathers -->
+  <ellipse cx="80" cy="42" rx="8" ry="18" transform="rotate(30 80 42)"/>
+  <ellipse cx="85" cy="48" rx="7" ry="16" transform="rotate(20 85 48)"/>
+  <ellipse cx="76" cy="38" rx="6" ry="16" transform="rotate(40 76 38)"/>
+  <!-- Wing -->
+  <ellipse cx="58" cy="62" rx="16" ry="13" transform="rotate(-8 58 62)"/>
+  <!-- Left leg -->
+  <rect x="42" y="84" width="4" height="22" rx="2"/>
+  <!-- Left foot -->
+  <polygon points="34,106 46,106 46,108 40,112 34,108"/>
+  <!-- Right leg -->
+  <rect x="56" y="84" width="4" height="22" rx="2"/>
+  <!-- Right foot -->
+  <polygon points="50,106 62,106 62,108 56,112 50,108"/>
+</svg>
