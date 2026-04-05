@@ -33,6 +33,7 @@ const ANALYTICS = [
   { name: 'GeckoTerminal', url: 'https://www.geckoterminal.com/shido-network/pools/0x600c9561b00e3bc569211dbb47ac134fd46d6746' },
   { name: 'DEXTools', url: 'https://www.dextools.io/app/en/shido/pair-explorer/0x600c9561b00e3bc569211dbb47ac134fd46d6746' },
   { name: 'DexHub', url: 'https://dexhub.mavnode.io/' },
+  { name: 'BodhiX', url: 'https://terminal.bodhix.io/token/0x37385e458bb1b19c614C238E5109E59ac605DF7a' },
 ];
 
 export default function Community() {
